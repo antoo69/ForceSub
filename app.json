@@ -3,9 +3,9 @@
   "description": "Python based bot to Force Users to sub a channel.",
   "logo": "",
   "keywords": ["telegram", "telethon", "telegram-bot"],
-  "repository": "https://github.com/xditya/ForceSub",
-  "website": "xditya.me",
-  "success_url": "https://t.me/BotzHub",
+  "repository": "https://github.com/antoo69/ForceSub",
+  "website": "instagram.com/fsyrl_",
+  "success_url": "https://t.me/+8veNR2baDgMzZjY1",
   "env": {
     "BOT_TOKEN": {
       "description": "Bot token, get it from @BotFather.",
