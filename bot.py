@@ -199,7 +199,7 @@ async def strt(event):
         f"Hi. I'm a force subscribe bot made specially for @{channel}!\n\nCheckout @BotzHub :)",
         buttons=[
             Button.url("Channel", url=f"https://t.me/{channel}"),
-            Button.url("Repository", url="https://github.com/xditya/ForceSub"),
+            Button.url("Repository", url="https://github.com/antoo69/ForceSub"),
         ],
     )
 
