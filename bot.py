@@ -24,7 +24,7 @@ from telethon.tl.functions.channels import GetParticipantRequest
 logging.basicConfig(
     format="[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s", level=logging.INFO
 )
-log = logging.getLogger("BotzHub")
+log = logging.getLogger("Fersubs")
 
 # start the bot
 log.info("Starting...")
